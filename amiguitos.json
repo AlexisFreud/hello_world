@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Nombre_1",
+    "hobby": "Hobby_1",
+    "age": "Edad_1",
+    "phone": "Phone_1",
+    "address": "Address_1"
+  },
+  {
+    "name": "Nombre_2",
+    "hobby": "Hobby_2",
+    "age": "Edad_2",
+    "phone": "Phone_2",
+    "address": "Address_2"
+  },
+  {
+    "name": "Nombre_3",
+    "hobby": "Hobby_3",
+    "age": "Edad_3",
+    "phone": "Phone_3",
+    "address": "Address_3"
+  },
+  {
+    "name": "Nombre_4",
+    "hobby": "Hobby_4",
+    "age": "Edad_4",
+    "phone": "Phone_4",
+    "address": "Address_4"
+  },
+]
